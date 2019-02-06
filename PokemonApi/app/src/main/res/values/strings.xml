@@ -4,5 +4,5 @@
     <string name="btnBuscar">Buscar</string>
     <string name="nombre">Nombre :</string>
     <string name="peso">Peso :</string>
-    <string name="altura">Altura</string>
+    <string name="altura">Altura :</string>
 </resources>
