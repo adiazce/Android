@@ -52,9 +52,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void mostraresultado(Pokemon pokemonResponse) {
-        tvNombre.setText(R.string.nombre + pokemonResponse.getName());
-        tvPeso.setText( R.string.peso + pokemonResponse.getWeight());
-        tvAltura.setText(R.string.altura + pokemonResponse.getHeight());
+        tvNombre.setText(getResources().getString(R.string.nombre)  + pokemonResponse.getName());
+        tvPeso.setText( getResources().getString(R.string.peso) +""+ pokemonResponse.getWeight());
+        tvAltura.setText(getResources().getString(R.string.altura) +""+ pokemonResponse.getHeight());
 
     }
 
@@ -66,6 +66,8 @@ public class MainActivity extends AppCompatActivity {
                 Pokemon pokemonResponse = response.body();
                 mostraresultado(pokemonResponse);
 
+            }else{
+                Toast.makeText(getApplicationContext(),"Ocurrio un Error!.", Toast.LENGTH_LONG).show();
             }
         }
 
