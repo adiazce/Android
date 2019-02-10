@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieDBApiImg</string>
+    <string name="pokemon">Ingrese nombre pokemon</string>
+    <string name="search">Buscar</string>
+    <string name="Titulo">Titulo</string>
+    <string name="overview">Reseña</string>
+    <string name="date">Lanzamiento</string>
+</resources>
