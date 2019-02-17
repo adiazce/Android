@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="notification">Notificacion</string>
+    <string name="text_notification">Nueva Notificación</string>
+    <string name="content_notification" >Esta es una nueva Notificación</string>
+
+    <string name="channel_name">Canal</string>
+    <string name="chennel_descripcion" > Descripcion del canal </string>
+    <string name="btn_action">Acción</string>
+</resources>
