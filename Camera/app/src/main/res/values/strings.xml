@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="bt_camera">Tomar Foto</string>
+    <string name="ivPhoto">Foto</string>
+</resources>
