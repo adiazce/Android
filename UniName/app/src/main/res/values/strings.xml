@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UniName</string>
+    <string name="tvEmail">Correo :</string>
+    <string name="txtPhone">Telf.:</string>
+    <string name="ivDescripcion">Fotos</string>
+    <string name="txtRegistros">Ver</string>
+</resources>
