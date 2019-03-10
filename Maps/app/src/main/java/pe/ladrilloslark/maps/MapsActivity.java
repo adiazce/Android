@@ -54,7 +54,11 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         // Add a marker in Sydney and move the camera
         for ( LatLng  d : this.Ubicaciones()
              ) {
-            mMap.addMarker(new MarkerOptions().position(d).title("Lima").snippet("av Argentina"));
+            mMap.addMarker(new MarkerOptions()
+                    .position(d)
+                    .title("Lima")
+                    .snippet("av Argentina"))
+                    .showInfoWindow();
             builderOfBounds.include(d);
 
             polylineOptions.add(d);
@@ -63,11 +67,9 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         }
 
 
-      //  Polyline polyline = mMap.addPolyline(polylineOptions.width(2).color(Color.RED));
+        //  Polyline polyline = mMap.addPolyline(polylineOptions.width(2).color(Color.RED));
 
-
-
-        Polygon polygon = mMap.addPolygon( polygonOptions.fillColor(Color.RED).strokeColor(Color.BLUE));
+        // Polygon polygon = mMap.addPolygon( polygonOptions.fillColor(Color.RED).strokeColor(Color.BLUE));
 
         mMap.moveCamera(CameraUpdateFactory.newLatLng(builderOfBounds.build().getCenter()));
 
@@ -90,7 +92,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     }
 
     public ArrayList<LatLng> Ubicaciones(){
-        ArrayList<LatLng>  ubi = new ArrayList<LatLng>();
+        ArrayList<LatLng >  ubi = new ArrayList<LatLng>();
         ubi.add(new LatLng( -11.991144,-77.0830969)) ;
         ubi.add(new LatLng( -12.0059187,-77.112979)) ;
         ubi.add(new LatLng( -11.9907672,-77.0909522)) ;
