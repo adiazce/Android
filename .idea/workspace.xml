@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b10fb8f-2b74-45c1-8b5e-9d85ed2e2ab9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Camera/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Camera/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Camera/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Camera/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/app/src/main/java/pe/ladrilloslark/maps/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maps/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MovieDBApiImg/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maps/app/src/main/java/pe/ladrilloslark/maps/MapsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Maps/app/src/main/java/pe/ladrilloslark/maps/MapsActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="4b10fb8f-2b74-45c1-8b5e-9d85ed2e2ab9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +45,15 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2045907037">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -177,16 +171,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18567808" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18545838" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.32921812" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
