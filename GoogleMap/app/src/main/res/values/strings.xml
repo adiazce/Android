@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="verMapa">Ver Mapa</string>
+    <string name="btnMarcador"> Agregar Marcador </string>
+    <string name="tvNombre">Nombre:</string>
+    <string name="btVerMapa">Mapa</string>
+    <string name="etNombre">Nombre de Marcador</string>
+    <string name="etLat">Latitud</string>
+    <string name="etLog">Logitud</string>
+    <string name="etDescripcion">Escribar una Descripcion ...............</string>
+    <string name="btGuardar">Guardar Marcador</string>
+    <string name="empty_not_saved">Ocurrio un Error al Guardar</string>
+    <string name="messaje_guardado">Se Guardo Correctamente</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
