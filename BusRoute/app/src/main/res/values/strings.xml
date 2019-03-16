@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusRoute</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Mapa" > Mapa</string>
+    <string name="tvVehicleID">Vehiculo ID :</string>
+    <string name="tvBlockNumber">Block Number:</string>
+    <string name="tvDireccionText">Dirección</string>
+</resources>
