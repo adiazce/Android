@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Test</string>
+    <string name="btnGoTo">Go To</string>
+    <string name="etNumber">Ingrese Numero</string>
+    <string name="btExecute">Ejecutar</string>
 </resources>
