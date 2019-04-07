@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MoviesEF</string>
+    <string name="item_favoite">Favoritos</string>
+    <string name="item_search">Buscar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="etMovie">Buscar .... </string>
+    <string name="btnSearchImg">Buscar</string>
+    <string name="tvDescription">Descripcion:</string>
+    <string name="etTitle">Titulo</string>
+    <string name="btnAddFavorite">Botton Favorito</string>
+    <string name="title_activity_searc">SearcActivity</string>
+</resources>
